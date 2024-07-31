@@ -1,10 +1,18 @@
 # AWS
 
+## What is a failover cluster?
+In computing, a failover cluster refers to a group of independent servers that work together to maintain high availability of applications and services. If one of the servers fails, another node in the cluster can take over its workload with little or no downtime. This process is known as failover.
+
+## What is in-memory DB vs DB?
+An in-memory database keeps all data in the main memory or RAM of a computer. A traditional database retrieves data from disk drives. In-memory databases are faster than traditional databases because they require fewer CPU instructions. They also eliminate the time it takes to access data from a disk.
+
+## What is AWS Fargate for?
+AWS Fargate is a technology that you can use with Amazon ECS to run containers without having to manage servers or clusters of Amazon EC2 instances. With AWS Fargate, you no longer have to provision, configure, or scale clusters of virtual machines to run containers.
 
 ## Service models
 
 ### SaaS
-SaaS is also known as "on-demand software". It is a software in which the applications are hosted by a cloud service provider. Users can access these applications with the help of internet connection and web browser.
+SaaS is also known as "on-demand software". It is a software in which the applications are hosted by a cloud service provider. Users can access these applications with the help of an internet connection and web browser.
 
 ### Characteristics of SaaS
 - Managed from a central location
