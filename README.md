@@ -1,5 +1,8 @@
 # AWS
 
+## What is AWS DynamoDB used for?
+Amazon DynamoDB is a serverless, NoSQL database service that enables you to develop modern applications at any scale. As a serverless database, you only pay for what you use and DynamoDB scales to zero, has no cold starts, no version upgrades, no maintenance windows, no patching, and no downtime maintenance.
+
 ## What is a failover cluster?
 In computing, a failover cluster refers to a group of independent servers that work together to maintain high availability of applications and services. If one of the servers fails, another node in the cluster can take over its workload with little or no downtime. This process is known as failover.
 
